@@ -10,6 +10,7 @@ import Project from "./Project"
 function Home() {
   return (
     <>
+    <div className='bg-black'>
     <div className='top-0 nav-p'>
         <Navbars></Navbars>
     </div>
@@ -30,6 +31,7 @@ function Home() {
 
     <div className='screen-p'>
       <Contact/>
+      </div>
       </div>
       
 
