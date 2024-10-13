@@ -22,8 +22,8 @@ function project() {
         <div className="bg-white rounded-lg shadow-lg dark:bg-gray-800">
             <img src="image.png" alt="" className="object-cover w-full h-64 rounded-t-lg"/>
             <div className="p-6">
-                <h2 className="mb-2 text-xl font-bold text-gray-800 dark:text-white">Project 2</h2>
-                <p className="text-sm leading-relaxed text-gray-700 dark:text-gray-300">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras blandit nunc sed quam posuere, eget mollis felis sodales.</p>
+                <h2 className="mb-2 text-xl font-bold text-gray-800 dark:text-white">Student Profile</h2>
+                <p className="text-sm leading-relaxed text-gray-700 dark:text-gray-300">Built a MERN app to display student details by class and department.Used a React form for real-time submissions.Stored records efficiently with MongoDB.</p>
             </div>
         </div>
     </div>
