@@ -20,7 +20,7 @@ function project() {
             </div>
         </div>
         <div className="bg-white rounded-lg shadow-lg dark:bg-gray-800">
-            <img src="https://images.unsplash.com/photo-1556740731-0d9f8d0e2fde?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="" className="object-cover w-full h-64 rounded-t-lg"/>
+            <img src="image.png" alt="" className="object-cover w-full h-64 rounded-t-lg"/>
             <div className="p-6">
                 <h2 className="mb-2 text-xl font-bold text-gray-800 dark:text-white">Project 2</h2>
                 <p className="text-sm leading-relaxed text-gray-700 dark:text-gray-300">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras blandit nunc sed quam posuere, eget mollis felis sodales.</p>
